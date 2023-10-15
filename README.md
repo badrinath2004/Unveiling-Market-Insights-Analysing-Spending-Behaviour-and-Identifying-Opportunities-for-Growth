@@ -6,4 +6,4 @@ Dashboard Tableau Link https://public.tableau.com/app/profile/badrinath.n/viz/Wh
 
 Story Tableau Link  https://public.tableau.com/app/profile/badrinath.n/viz/WholesalerCustomerAnalysis2_16973637476170/Story1?publish=yes
 
-Video Demonstration Link https://drive.google.com/drive/folders/1GMZbzvHW9uDlFXJ78bOcWTc6nit8n8TT
+Video Demonstration Link https://drive.google.com/file/d/1irMrBswRSMdpvezvdWhWa28xuKSkKCVU/view?usp=drivesdk
